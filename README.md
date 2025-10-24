@@ -1,10 +1,10 @@
-﻿# Responsi-1
-# Dimas Kendika Fazrulfalah - H1D023083
-# Shift Asal : A
-# Shift Baru : C
+﻿# Responsi Pemmob
+### Dimas Kendika Fazrulfalah - H1D023083
+### Shift Asal : A
+### Shift Baru : C
 
-# ScreenRecord
-![]
+### ScreenRecord
+![](Screen_recording_20251024_180931.gif) 
 
 ### ALUR API
 ### Komponen Utama
@@ -49,3 +49,4 @@
     * `PlayerDetailFragment` mengambil data pemain dari `Bundle` (`arguments`) dan menampilkannya di `TextView` di dalam Fragment.
 
 10. Pengguna menekan tombol back atau mengetuk area Fragment, `FragmentManager` menutup `PlayerDetailFragment` dan kembali menampilkan daftar pemain di `PlayerActivity`.
+
